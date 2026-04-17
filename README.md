@@ -2,23 +2,25 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Isaac 👋</h1>
 <p align="center">
-  <strong>Backend Developer | Cloud Enthusiast | Future ML Ops Engineer</strong><br>
-  Passionate about building scalable systems and deploying reliable machine learning solutions.
+  <strong>Backend Developer | Cloud Enthusiast | Future Cloud Security Engineer</strong><br>
+  Passionate about building secure, scalable cloud systems and implementing security best practices, including identity management, threat detection, and data protection.
 </p>
 
 
 ## About Me
 
-I'm currently taking the **AWS Cloud Practitioner** certification and enrolled in the **ALX Backend ProDev** program. My journey into software engineering is driven by a passion for building robust, scalable systems and a vision to become an **ML Ops Engineer** — someone who ensures machine learning models run reliably in real-world environments.
+I am currently advancing my expertise in **cloud and software engineering**  by preparing for the **AWS Cloud Practitioner certification** while undergoing intensive training in **backend development** through the ALX Backend ProDev program.
 
-Even as I begin, I’m already thinking ahead:
+My journey into technology is driven by a clear vision: to design and build robust, scalable, and secure systems that solve real-world problems. I am particularly focused on evolving into a **Cloud Security Architect and Engineer**, with a commitment to designing secure cloud infrastructures, protecting digital assets, and ensuring resilience in modern systems.
 
-- **Automated Model CI/CD Pipelines**
-- **Model Monitoring & Drift Detection**
-- **Centralized Experiment Registries**
-- **Scalable Real-Time Inference Endpoints**
+Even at this stage, my thinking is long-term and systems-oriented. I am intentionally developing the capacity to work on:
 
-I believe in learning with purpose — and building with impact.
+- **Secure cloud architecture design (identity, access control, network security)**
+- **Infrastructure as Code with embedded security best practices**
+- **Cloud security monitoring, threat detection, and incident response**
+- **Compliance and governance frameworks (e.g., ISO standards, data protection)**
+
+Beyond technical growth, I am deeply committed to leveraging technology as a tool for impact, service, and transformation—building solutions that are not only efficient, but secure, responsible, and meaningful.
 
 ---
 ## Badges & Certifications
