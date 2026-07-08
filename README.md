@@ -2,25 +2,20 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Isaac 👋</h1>
 <p align="center">
-  <strong>Backend Developer | Cloud Enthusiast | Future Cloud Security Engineer</strong><br>
-  Passionate about building secure, scalable cloud systems and implementing security best practices, including identity management, threat detection, and data protection.
+  <strong>Web Developer | Backend Developer (Python) | AI & ML Enthusiast | Aspiring Cloud MLOps Engineer | Technology Entrepreneur</strong><br>
+  Passionate about building secure, scalable, and intelligent systems through cloud computing, backend development, and AI, with a commitment to developing ethical, resilient, and impactful technology solutions for businesses and communities.
+
 </p>
 
 
 ## About Me
 
-I am currently advancing my expertise in **cloud and software engineering**  by preparing for the **AWS Cloud Practitioner certification** while undergoing intensive training in **backend development** through the ALX Backend ProDev program.
+I am a technology professional with a background in **ICT Education** and a passion for building innovative, scalable, and impactful digital solutions. As an **AWS Certified Cloud Practitioner**, I am continuously deepening my expertise in cloud computing while strengthening my software engineering skills through **Python backend development** and **modern web development**. My technical interests lie at the intersection of **cloud computing**, **artificial intelligence**, and **machine learning**, and I am intentionally building the knowledge and practical experience needed to design secure, scalable, and intelligent cloud-native systems that solve real-world problems and create meaningful impact for businesses and communities.
+I am particularly interested in the convergence of cloud computing, software engineering, AI, and machine learning, and how these technologies can be used to build resilient digital infrastructure and innovative products that improve lives and strengthen communities.
 
-My journey into technology is driven by a clear vision: to design and build robust, scalable, and secure systems that solve real-world problems. I am particularly focused on evolving into a **Cloud Security Architect and Engineer**, with a commitment to designing secure cloud infrastructures, protecting digital assets, and ensuring resilience in modern systems.
+Beyond technical development, I have a strong entrepreneurial mindset. My aspiration is to build and lead technology ventures that create employment, empower businesses, and address pressing challenges across sectors such as agriculture, education, healthcare, and public services. I am especially passionate about developing AI-powered solutions that enhance decision-making, improve productivity, and contribute to sustainable development throughout Africa.
 
-Even at this stage, my thinking is long-term and systems-oriented. I am intentionally developing the capacity to work on:
-
-- **Secure cloud architecture design (identity, access control, network security)**
-- **Infrastructure as Code with embedded security best practices**
-- **Cloud security monitoring, threat detection, and incident response**
-- **Compliance and governance frameworks (e.g., ISO standards, data protection)**
-
-Beyond technical growth, I am deeply committed to leveraging technology as a tool for impact, service, and transformation—building solutions that are not only efficient, but secure, responsible, and meaningful.
+I am committed to lifelong learning, thoughtful leadership, and engineering excellence, with the goal of contributing to the next generation of cloud-native and AI-driven solutions that are both technically sound and socially transformative.
 
 ---
 ## Badges & Certifications
